@@ -1,0 +1,19 @@
+body {
+  text-align:center;
+  margin: 0px;
+  padding: 0px;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-item: center;
+}
+p {
+  text-align:center;
+}
+img {
+  width:350px;
+  height:300px;
+}
